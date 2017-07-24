@@ -22,5 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-"# transit_app" 
+
 "# Transit_App" 
+"# GMaps_Bus_Locator_App" 
